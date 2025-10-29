@@ -1,8 +1,8 @@
 # Q2 Project Proposal 
 1. Working title: Lockin
 2. Second title: TaskTrack 
-3. Logo:
-    ![logo](Logo.png)
+3. Logo: 
+    - ![logo](Logo.png)
 4. Description: 
 This is a website that helps with tracking your task and to help you not procrastinate. We have multiple tools such as a planner where you can schedule due dates, a goal page where you can set goals to achieve, a statistics page which helpes you see your statistics when it comes to doing requirements or stats, and an about us page where you can see our backrounds and why we made this website.
 5. Outline of the website:
@@ -13,5 +13,5 @@ This is a website that helps with tracking your task and to help you not procras
     - Notes: Notes to yourself about things to do. You can store ideas, thoughts, and other references here on this tab.
 6. Description of JS
     * Home page: Number of tasks left to do 
-7. Wireframe:
+7. Wireframe: https://www.canva.com/design/DAG3JACwuHE/J3tm5Fz0m0I3zM4_xQkbsw/edit?utm_content=DAG3JACwuHE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
