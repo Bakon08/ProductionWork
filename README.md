@@ -7,7 +7,9 @@ This is a website that helps with tracking your task and to help you not procras
 5. Outline of the website: 
     * Home page: this page contains the links to the other pages and the description.
     * Planner: This page helps you track your tasks and the due dates.
-    * 
+    * Goals: this is a page that helps you set goals long for long term for example you want to get 10 tasks done by the end of the week.
+    * Statistics: Show all you statistics on this app like amount of tasks done or productivity rate.
+    * Notes: Notes to yourself about things to do.
 6. Description of JS
 7. Wireframe:
 
