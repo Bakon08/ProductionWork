@@ -1,3 +1,9 @@
-# ProductionWork
-Our CS3 project from the 2nd to 4th quarter.
+# Q2 Project Proposal 
+1. Working title: 
+2. Second title:
+3. Logo: 
+4. Description:
+5. Outline of the website 
+6. Description of JS
+7. Wireframe:
 
