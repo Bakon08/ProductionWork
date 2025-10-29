@@ -13,5 +13,5 @@ This is a website that helps with tracking your task and to help you not procras
     - Notes: Notes to yourself about things to do. You can store ideas, thoughts, and other references here on this tab.
 6. Description of JS
     * Statistics page: calculates the percentage of tasks status. It will also be used to clalculate for task rate, time where most tasks were completed and time spent on completing tasks.
-7. Wireframe: https://www.canva.com/design/DAG3JACwuHE/J3tm5Fz0m0I3zM4_xQkbsw/edit?utm_content=DAG3JACwuHE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+7. Wireframe: [wireframe](https://www.canva.com/design/DAG3JACwuHE/J3tm5Fz0m0I3zM4_xQkbsw/edit?ui=e30)
 
