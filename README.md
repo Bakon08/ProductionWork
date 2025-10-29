@@ -1,5 +1,5 @@
 # Q2 Project Proposal 
-1. Working title: TaskUp
+1. Working title: Lockin
 2. Second title: TaskTrack 
 3. Logo: 
 4. Description: 
