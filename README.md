@@ -13,5 +13,5 @@ This is a website that helps with tracking your task and to help you not procras
     - Notes: Notes to yourself about things to do. You can store ideas, thoughts, and other references here on this tab.
 6. Description of JS
     * Home page: Number of tasks left to do 
-7. Wireframe:
+7. Wireframe: https://www.canva.com/design/DAG3JACwuHE/J3tm5Fz0m0I3zM4_xQkbsw/edit?utm_content=DAG3JACwuHE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
